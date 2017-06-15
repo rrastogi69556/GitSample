@@ -1,4 +1,4 @@
 Hello
 World Replaced want to have conflict
-Now no conflict needed
+Now no conflict needed changed in branch1
 new branch branch1
