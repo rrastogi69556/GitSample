@@ -1,4 +1,4 @@
 Hello
 World Replaced want to have conflict
 Now no conflict needed changed in master
-new branch branch1
+new branch master
